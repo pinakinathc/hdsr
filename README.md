@@ -8,7 +8,8 @@ The paper was published in 24th International Conference on Pattern Recognition 
 
 
 To Execute this model:
-`python train_model.py`
+Change the data path in `load_data.py` line 28
+then: `python train_model.py`
 
 ========================================================
 
